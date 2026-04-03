@@ -9,8 +9,7 @@ To write a Python program to print the following integer literals: 10,3.14.
 4.Terminate the program.
 ## PROGRAM
 ```python
-# Reg.No- 212222060120
-# Name- Kirithika R
+
 a=int(input())
 b=float(input())
 print(a,b)
